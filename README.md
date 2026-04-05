@@ -2,11 +2,6 @@
 
 A fully functional desktop **Contact Management System** built as a practice project to apply **3-Tier Architecture**, **ADO.NET**, and **OOP** principles in a real Windows Forms application.
 
----
-
-## 🖥️ Screenshots
-
-> *(Add your screenshots here)*
 
 ---
 
